@@ -2,12 +2,17 @@
 
 ##### Destope Responsive  🧮🤙
 
-- builded with 3-4 hrs 😅🚀
+- builded with 2-3 hrs 😅🚀
 
-|Destope Responsive | Mobile response |
-|:-:|:-:|
-| ![image](https://user-images.githubusercontent.com/84271800/215263357-610b21b4-0ac7-4658-b65e-534261190225.png)|![image](https://user-images.githubusercontent.com/84271800/215265154-bea8dc8f-ad01-42b2-b24d-55602b3290b4.png)|
 
+
+#### - Destop preview :
+<img width="400" src="https://user-images.githubusercontent.com/84271800/215263357-610b21b4-0ac7-4658-b65e-534261190225.png"/>
+
+#### - Mobile preview :
+
+
+<img   src="https://user-images.githubusercontent.com/84271800/215265154-bea8dc8f-ad01-42b2-b24d-55602b3290b4.png"/>
 
 
 # Thanks for visiting to my repository 💖😍🌟.
