@@ -1,12 +1,11 @@
 ## Apna Calculator
 
-##### Destope Responsive  🧮🤙
-
-- builded with 2-3 hrs 😅🚀
+##### Destope Responsive  🧮🚀
 
 
 
-#### - Destop preview :
+
+#### - Desktop preview :
 <img width="400" src="https://user-images.githubusercontent.com/84271800/215263357-610b21b4-0ac7-4658-b65e-534261190225.png"/>
 
 #### - Mobile preview :
