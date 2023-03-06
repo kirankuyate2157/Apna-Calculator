@@ -11,7 +11,7 @@
 #### - Mobile preview :
 
 
-<img   src="https://user-images.githubusercontent.com/84271800/215265154-bea8dc8f-ad01-42b2-b24d-55602b3290b4.png"/>
+[mobile!](https://user-images.githubusercontent.com/84271800/215265154-bea8dc8f-ad01-42b2-b24d-55602b3290b4.png)
 
 
 # Thanks for visiting to my repository 💖😍🌟.
